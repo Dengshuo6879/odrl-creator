@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+build
+compiled_krb
+api/resources/nexustest.py
